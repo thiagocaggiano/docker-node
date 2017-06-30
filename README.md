@@ -13,7 +13,7 @@ You should never clone this repository; instead you should fork it into your acc
       node app.js
 
 
-#Docker
+# Docker
 ## Building your image
    
    $ docker build -t <your username>/node-web-app .
